@@ -1,0 +1,14 @@
+/* public/css/custom-pagination.css */
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.pagination .page-item {
+    margin: 0 2px;
+}
+
+.pagination .page-link {
+    padding: 5px 10px; /* Adjust the padding as needed */
+}
